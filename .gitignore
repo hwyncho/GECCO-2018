@@ -1,2 +1,12 @@
 # macOS
 .DS_Store
+
+# JetBrains
+.idea
+cmake-build-debug
+
+# CMake
+Makefile
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
